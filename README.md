@@ -84,12 +84,15 @@ Outside of code: Scrum Master by habit, math tutor, Ubuntu enthusiast.
 
 ---
 
-## GitHub Stats
+## Experience Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camirgz&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camirgz&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+| Role | Organization | Period |
+|------|-------------|--------|
+| Test Process Development Intern | Teradyne | 2026 – Present |
+| Databricks Student Fellow | Databricks | 2026 |
+| Software Engineering Assistant | Universidad de Costa Rica | 2025 – 2026 |
+| Founder & Developer | WebExpressCR | 2026 – Present |
+| Software Engineer Intern | Zalando, Berlin | 2022 |
 
 ---
 
