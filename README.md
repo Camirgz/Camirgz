@@ -12,17 +12,7 @@
 
 ---
 
-```python
-camila = {
-    "role":        "Test Process Development Intern @ Teradyne",
-    "education":   "B.S. Software Engineering · Universidad de Costa Rica · 4th year",
-    "fellowship":  "Databricks Student Fellow 2026 · 1 of 36 / 5,000+ applicants",
-    "also":        "Founder @ WebExpressCR",
-    "focus":       ["applied AI", "test automation", "systems programming", "full-stack"],
-    "languages":   ["Python", "C#", "Java", "C++", "JavaScript", "SQL"],
-    "location":    "San José, Costa Rica"
-}
-```
+
 
 ---
 
